@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+        #    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -68,7 +68,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: M.Sc. in Master of Biophotonics 
+    - degree: M.Sc. in Molecular Nano and Biophotonics for telecommunications and biotechnologies (MONABIPHOT) 
       university: École Normale Supérieure de Cachan
       time: 2010 - 2012
       details: |
