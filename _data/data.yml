@@ -57,7 +57,7 @@ education:
       supervisor: Lucia Reining
       Thesis title: Theory of electron spectroscopy beyond the state-of-the-art: 
            an improved description of fermion-plasmon coupling in Green’s function calculations.
-           See more details at <a href="https://etsf.polytechnique.fr/node/3404.">benchmarks</a>
+           #See more details at <a href="https://etsf.polytechnique.fr/node/3404.">benchmarks</a>
       details: |
               #Add description of the phd project later...
           - Bullet Led multiple joint projects producing several top-tier peer-reviewd publications;
