@@ -107,12 +107,11 @@ publications:
     intro: |
          The list of my publications in academic research. 
     papers:
-      - title: Anharmonic melting of the charge density wave in single-layer TiSe2
+      - title: Anharmonic melting of the charge density wave in single layer TiSe2
         link: "https://arxiv.org/abs/1910.12709"
         authors: Zhou, J. S., Monacelli, L., Bianco, R., Errea, I., Mauri, F., Calandra, M.
         conference: "Submitted to Phys. Rev. Lett., 2019"
-
-      - title: "Dispersing and non-dispersing satellites in the photoemission spectra of aluminum"
+      - title: Dispersing and non-dispersing satellites in the photoemission spectra of aluminum
         link: "https://arxiv.org/abs/1811.12217"
         authors: Jianqiang Sky Zhou, Lucia Reining, Alessandro Nicolaou, Azzedine Bendounan, Kari Ruotsalainen, Marco Vanzini, J. J. Kas, J. J. Rehr, Matthias Muntwiler, Vladimir N. Strocov, Fausto Sirotti, Matteo Gatti 
         conference: "Submitted to Phys. Rev. Lett., 2019"
