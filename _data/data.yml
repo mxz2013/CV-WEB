@@ -114,13 +114,36 @@ publications:
 
       - title: "Dispersing and non-dispersing satellites in the photoemission spectra of aluminum"
         link: "https://arxiv.org/abs/1811.12217"
-        authors: Zhou, J. S., Reining, L., Nicolaou, A., Bendounan, A., Ruotsalainen, K., Vanzini, M., Kas, J.J., Rehr, J.J., Muntwiler,M., Strocov, V.N., Sirotti,F., Gatti, M 
+        authors: Jianqiang Sky Zhou, Lucia Reining, Alessandro Nicolaou, Azzedine Bendounan, Kari Ruotsalainen, Marco Vanzini, J. J. Kas, J. J. Rehr, Matthias Muntwiler, Vladimir N. Strocov, Fausto Sirotti, Matteo Gatti 
         conference: "Submitted to Phys. Rev. Lett., 2019"
-
       - title: Revisiting the origin of satellites in core-level photoemission of transparent conducting oxides The case of n-doped SnO2 
         link: "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.155102"
         authors: Francesco Borgatti, J. A. Berger, Denis Céolin, Jianqiang Sky Zhou, Joshua J. Kas, Matteo Guzzo, C. F. McConville, Francesco Offi, Giancarlo Panaccione, Anna Regoutz, David J. Payne, Jean-Pascal Rueff, Oliver Bierwagen, Mark E. White, James S. Speck, Matteo Gatti, and Russell G. Egdell
         conference: "Phys. Rev. B"
+      - title: Variations on the “exact factorization”
+        link: "https://link.springer.com/article/10.1140%2Fepjb%2Fe2018-90278-2"
+        authors: Xavier Gonze, Jianqiang Sky Zhou, Lucia Reining 
+        conference: "The European Physical Journal B"
+      - title: Cumulant green’s function calculations of plasmon satellites in bulk sodium: Influence of screening and the crystal environment 
+        link: "https://arxiv.org/abs/1708.04313"
+        authors: Jianqiang Sky Zhou, Matteo Gatti, J. J. Kas, J. J. Rehr, Lucia Reining 
+        conference: "Phys. Rev. B"
+         - title: Dynamical effects in electron spectroscopy
+        link: "https://aip.scitation.org/doi/10.1063/1.4934965"
+        authors: Jianqiang Sky Zhou, J. J. Kas, Lorenzo Sponza, Igor Reshetnyak, Matteo Guzzo, Christine Giorgetti, Matteo Gatti, Francesco Sottile, J. J. Rehr, and Lucia Reining
+        conference: "The Journal of Chemical Physics"
+        - title: Gamma-ray irradiation effects on distributed-feedback laser diodes
+           link: "https://link.springer.com/article/10.1007/s10946-009-9064-3"
+           authors: Zhou, Y. P., Chang, G. L., Zhou, J. S., J. Ma, L. Y. Tan
+           conference: "Journal of Russian Laser Research"
+        - title: Theory of electron spectroscopy beyond the state-of-the-art an improved description of fermion-plasmon coupling in Green’s function calculations. 
+           link: "https://etsf.polytechnique.fr/node/3404."
+           authors: Jianqiang Sky Zhou 
+           conference: "PhD thesis"
+        - title: Progress of the theoretical description of photoemission in small systems a model study
+           link: "https://etsf.polytechnique.fr/node/3216"
+           authors: Jianqiang Sky Zhou 
+           conference: "Master thesis"
 
 skills:
     title: Skills &amp; Proficiency
