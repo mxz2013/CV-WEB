@@ -50,35 +50,27 @@ career-profile:
       Physicist with excellent problem-solving and data analysis skills, 
       who takes pride in applying algorithms to solve real-world business problems.
 
-      #Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      #adipiscing elit. You can [download this free resume/CV template here]().
-      #Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      #penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      #Donec quam felis, ultricies nec, pellentesque eu.
-      #Second paragraph if required.
 education:
     - degree: Ph.D. in Theoretical Physics 
       university: École Polytechnique
       time: 2013 - 2016
+      supervisor: Lucia Reining
+      Thesis title: Theory of electron spectroscopy beyond the state-of-the-art: 
+           an improved description of fermion-plasmon coupling in Green’s function calculations.
+           [see more details at](https://etsf.polytechnique.fr/node/3404.)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+              #Add description of the phd project later...
+          - Bullet Led multiple joint projects producing several top-tier peer-reviewd publications;
+          - Bullet Participated 10 international conferences with 7 oral presentations and 3 posters
+                   (one best poster prize);
+          - Bullet Co-organized the 12th ETSF Young Researchers’ Meeting in Paris (+70 participants worldwide).         
     - degree: M.Sc. in Molecular Nano and Biophotonics for telecommunications and biotechnologies (MONABIPHOT) 
       university: École Normale Supérieure de Cachan
       time: 2010 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+              # Add description later
+          - Bullet Won the Erasmus Mundus Scholarship 48K e for a two-year study in Europe); 
+          - Bullet Acquired a multidisciplinary training in physics, chemistry, and biology. 
 
     - degree: B.Sc. in Optoelectronic Engineering 
       university: Harbin institute of technology (China)
