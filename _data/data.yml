@@ -78,21 +78,9 @@ education:
 experiences:
     - role: Post-doctoral Fellow 
       time: 2018 - Present
-      company: Institut des Nanosciences de Paris, Sorbonne Université.
+      company: Institut des Nanosciences de Paris
       details: |
-              Scientific computing and analysis of low-dimensional materials.
 
-          - Bullet point Applied a machine-learning type approach to computing scientific concepts. 
-    - role: Post-doctoral Fellow 
-      time: 2016 - 2018
-      company: Laboratoire des Solides Irradiés, École Polytechnique. 
-      details: |
-              Making strategies to confirm my theoretical predications from my thesis,
-              and writing articles related to Ph.D. project.
-          - Bullet point Developed mathematical methods and implemented them in a
-            software (in Python) for bleeding-edge numerical simulations, leading
-            to several top-tier peer-review publications.  
-          - Bullet point
 projects:
     title: Projects
     intro: >
