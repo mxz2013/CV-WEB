@@ -80,7 +80,8 @@ experiences:
       time: 2018 - Present
       company: Sorbonne Université 
       details: |
-             -  Scientific computing and analysis of low-dimensional materials.
+             Scientific computing and analysis of low-dimensional materials.
+              - Bullet point
 projects:
     title: Projects
     intro: >
