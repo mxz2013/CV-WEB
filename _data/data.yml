@@ -80,16 +80,15 @@ experiences:
       time: 2018 - Present
       company: Sorbonne Université 
       details: |
-              Scientific computing and analysis of low-dimensional materials.
-
-    - Bullet point: Applied a machine-learning type approach to computing scientific concepts. 
+             - Scientific computing and analysis of low-dimensional materials.
+             - Bullet point 
 projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
+    assignments 
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
