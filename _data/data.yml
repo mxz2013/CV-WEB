@@ -54,11 +54,11 @@ education:
     - degree: Ph.D. in Theoretical Physics 
       university: École Polytechnique
       time: 2013 - 2016
-      supervisor: Lucia Reining
-      Thesis title: Theory of electron spectroscopy beyond the state-of-the-art: 
+      details: |
+      Supervisor Lucia Reining
+      Thesis title Theory of electron spectroscopy beyond the state-of-the-art: 
            an improved description of fermion-plasmon coupling in Green’s function calculations.
            #See more details at <a href="https://etsf.polytechnique.fr/node/3404.">benchmarks</a>
-      details: |
               #Add description of the phd project later...
           - Bullet Led multiple joint projects producing several top-tier peer-reviewd publications;
           - Bullet Participated 10 international conferences with 7 oral presentations and 3 posters
