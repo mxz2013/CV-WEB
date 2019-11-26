@@ -159,7 +159,7 @@ skills:
 
     toolset:
 
-      - name: Python & Django
+      - name: Python (Numpy) 
         level: 98%
             #       - name: Python
             #        level: 98%
