@@ -104,11 +104,11 @@ projects:
     assignments: 
       - title: Cumupy 
         link: "https://github.com/mxz2013/CumuPy"
-        tagline: "An scientific package written in Python to compute the spectral functions in the cumulant expansion approximations."
+        tagline: "A scientific package written in Python made for computing the Green's function in the cumulant expansion approximations."
 
       - title: Angle resolved photoemission spectra of plasmon satellites in bulk aluminum a benchmark study 
         link: "https://arxiv.org/abs/1811.12217"
-        tagline: "Main proposer for the ARPES experiment done in the ADRESS beamline of Swiss Light Source. The aim of this experiment was to verify the predictions from my newly derived theoretical method for computing the photoemission spectra. The team work involves collaborations with researchers from different domains and countries."
+        tagline: "Main proposer for the ARPES experiment done in the ADRESS beamline of Swiss Light Source. The aim of this experiment was to verify the predictions from my newly derived theoretical method for computing the photoemission spectra. The teamwork involves collaborations with researchers from different domains and countries."
 publications:
     title: Publications
     intro: |
