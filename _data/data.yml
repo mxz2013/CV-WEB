@@ -163,6 +163,10 @@ skills:
         level: 90%
       - name: Git & SVN
         level: 90%
+
+      - name: Vi & Jupyter Notebook
+        level: 90%
+
             #       - name: Git 
             #        level: 98%
         #      - name: Vi & Jupyter Notebook & Latex
