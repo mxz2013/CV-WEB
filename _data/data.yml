@@ -91,6 +91,14 @@ experiences:
               - Organized ETSF correlation team meeting at École Polytechnique, France (+30 participants worldwide).
               - Received 3 invited seminars on my researching projects.
               - Published one article that applies the probability theory in physics.  
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 90%
+
 projects:
     title: Projects
     intro: >
