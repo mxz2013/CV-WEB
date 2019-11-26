@@ -100,29 +100,27 @@ projects:
     assignments: 
       - title: Cumupy 
         link: "https://github.com/mxz2013/CumuPy"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "An scientific package written in Python to compute the spectral functions in the cumulant expansion approximations."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+         The list of my publications in academic research. 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Anharmonic melting of the charge density wave in single-layer TiSe2
+        link: "https://arxiv.org/abs/1910.12709"
+        authors: Zhou, J. S., Monacelli, L., Bianco, R., Errea, I., Mauri, F., Calandra, M.
+        conference: "Submitted to Phys. Rev. Lett., 2019"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Dispersing and non-dispersing satellites in the photoemission spectra of aluminum"
+        link: "https://arxiv.org/abs/1811.12217"
+        authors: Zhou, J. S., Reining, L., Nicolaou, A., Bendounan, A., Ruotsalainen, K., Vanzini, M., Kas, J.J., Rehr, J.J., Muntwiler,M., Strocov, V.N., Sirotti,F., Gatti, M 
+        conference: "Submitted to Phys. Rev. Lett., 2019"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Revisiting the origin of satellites in core-level photoemission of transparent conducting oxides: The case of n-doped SnO2 
+        link: "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.155102"
+        authors: Francesco Borgatti, J. A. Berger, Denis Céolin, Jianqiang Sky Zhou, Joshua J. Kas, Matteo Guzzo, C. F. McConville, Francesco Offi, Giancarlo Panaccione, Anna Regoutz, David J. Payne, Jean-Pascal Rueff, Oliver Bierwagen, Mark E. White, James S. Speck, Matteo Gatti, and Russell G. Egdell
+        conference: "Phys. Rev. B"
 
 skills:
     title: Skills &amp; Proficiency
