@@ -166,7 +166,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-       - name: Python (Numpy& Scipy& Matplotlib& Pandas& scikit-learn)
+       - name: Python & Numpy & Scipy & Matplotlib & Pandas & scikit-learn
         level: 98%
 
       - name: Github  
