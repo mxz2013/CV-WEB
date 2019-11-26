@@ -167,6 +167,9 @@ skills:
       - name: Vi & Jupyter Notebook & Latex
         level: 90%
 
+      - name: Machine learning & Deep learning 
+        level: 70%
+
             #       - name: Git 
             #        level: 98%
         #      - name: Vi & Jupyter Notebook & Latex
