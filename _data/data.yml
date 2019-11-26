@@ -12,7 +12,7 @@ sidebar:
     avatar: sky-cv-photojpg.jpg #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jqzhou.polytechnique@gmail.com #jqzhou_hit@hotmail.com 
+    email: jqzhou_hit@hotmail.com #jqzhou.polytechnique@gmail.com #jqzhou_hit@hotmail.com 
     phone: +33(0)785495109 
     #website: blog.webjeda.com #do not add http://
     #linkedin: alandoe
@@ -49,13 +49,6 @@ career-profile:
     summary: |
       Physicist with excellent problem-solving and data analysis skills, 
       who takes pride in applying algorithms to solve real-world business problems.
-
-      ## #Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      ## #adipiscing elit. You can [download this free resume/CV template here]().
-      ###Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      ###penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      ##Donec quam felis, ultricies nec, pellentesque eu.
-      ##Second paragraph if required.
 education:
     - degree: Ph.D. in Theoretical Physics 
       university: École Polytechnique
@@ -66,7 +59,7 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
+          - Bullet Led multiple joint projects producing several top-tier peer-reviewd publications;
           - Bullet point
     - degree: M.Sc. in Molecular Nano and Biophotonics for telecommunications and biotechnologies (MONABIPHOT) 
       university: École Normale Supérieure de Cachan
