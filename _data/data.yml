@@ -158,11 +158,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-       - name: Python
-        level: 98%
 
-       - name: Git 
-         level: 98%
+      - name: Python & Django
+        level: 98%
+            #       - name: Python
+            #        level: 98%
+            #
+            #       - name: Git 
+            #        level: 98%
         #      - name: Vi & Jupyter Notebook & Latex
         #        level: 90%
         #      - name: Machine learning & Deep learning 
