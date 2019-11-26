@@ -31,7 +31,7 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Spanish
+      - idiom: French
         level: Beginner 
 
     interests:
@@ -49,6 +49,7 @@ career-profile:
     summary: |
       Physicist with excellent problem-solving and data analysis skills, 
       who takes pride in applying algorithms to solve real-world business problems.
+      You can find my full CV in <a href="https://www.overleaf.com/read/tvjrznytffgj" target="_blank" rel="nofollow">Jianqiang Sky ZHOU</a>
 education:
     - degree: Ph.D. in Theoretical Physics 
       university: École Polytechnique
@@ -187,5 +188,5 @@ skills:
         #      - name: Fortran & Bash & SQL
         #        level: 70%
 
-footer: >
+        #footer: >
         #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
