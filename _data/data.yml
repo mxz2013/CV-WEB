@@ -92,12 +92,13 @@ experiences:
               - Received 3 invited seminars on my researching projects.
               - Published one article that applies the probability theory in physics.  
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 90%
+                #skills:
+                #    title: Skills &amp; Proficiency
+                #
+                #    toolset:
+                #      - name: Python (Numpy, Scipy, Matplotlib, Pandas, scikit-learn) 
+                #
+                #        # level: 90%
 
 projects:
     title: Projects
@@ -161,27 +162,27 @@ publications:
         link: "https://link.springer.com/article/10.1007/s10946-009-9064-3"
         authors: Yanping Zhou, Guolong Chang, Jianqiang Sky Zhou, Jing Ma, Linying Tan
         conference: "Journal of Russian Laser Research (2009)"
-        ##skills:
-        ##    title: Skills &amp; Proficiency
-        ##
-        ##    toolset:
-        ##      - name: Python & Django
-        ##        level: 98%
-        ##
-        ##      - name: Javascript & jQuery
-        ##        level: 98%
-        ##
-        ##      - name: Angular
-        ##        level: 98%
-        ##
-        ##      - name: HTML5 & CSS
-        ##        level: 95%
-        ##
-        ##      - name: Ruby on Rails
-        ##        level: 85%
-        ##
-        ##      - name: Sketch & Photoshop
-        ##        level: 60%
-        ##
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+       - name: Python (Numpy, Scipy, Matplotlib, Pandas, scikit-learn)
+        level: 98%
+
+      - name: Github  
+        level: 98%
+
+      - name: Vi & Jupyter Notebook & Latex
+        level: 90%
+
+      - name: Machine learning & Deep learning 
+        level: 80%
+
+      - name: Probablity & Statistics
+        level: 85%
+
+      - name: Fortran & Bash & SQL
+        level: 70%
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
