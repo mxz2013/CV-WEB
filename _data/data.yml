@@ -159,8 +159,8 @@ skills:
 
     toolset:
 
-      - name: Python (Numpy) 
-        level: 98%
+      - name: Python (Numpy & Scipy & Matplotlib & Pandas & Scikit learn) 
+        level: 90%
             #       - name: Python
             #        level: 98%
             #
