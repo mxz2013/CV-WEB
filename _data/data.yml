@@ -103,11 +103,13 @@ experiences:
               - Published one article that applies the probability theory in physics (see publication EPJB2018).  
 
 trainings:
-    - role: Machine Learning 
-      time: 2019
-      company: Coursera offered by Stanford 
-      details: |
-              BLABLA
+    title: Trainings 
+    intro: >
+    assignments: 
+      - title: Machine Learning 
+        link: "https://github.com/mxz2013/CumuPy"
+        tagline: "A Massive Open Online Course (MOOC) offered by Stanford University on Coursera."
+
 
 projects:
     title: Projects
