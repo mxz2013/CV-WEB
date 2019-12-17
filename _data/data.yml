@@ -106,6 +106,8 @@ trainings:
     - role: Machine Learning 
       time: 2019
       company: Coursera offered by Stanford 
+      details: |
+              BLABLA
 
 projects:
     title: Projects
