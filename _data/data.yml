@@ -107,10 +107,23 @@ trainings:
     intro: >
     assignments: 
       - title: Machine Learning 
-        link: "https://github.com/mxz2013/CumuPy"
-        tagline: "A Massive Open Online Course (MOOC) offered by Stanford University on Coursera."
+        link: "https://www.coursera.org/learn/machine-learning/"
+        tagline: "A Massive Open Online Course (MOOC) offered by Stanford University on Coursera. I finished the all the coursers, quizs, and programming assignments."
 
+      - title:  AI for Everyone 
+        link: "https://www.deeplearning.ai/ai-for-everyone/"
+        tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera. I finished all the coursers but not the quizs since I do not need the certificate."
+      - title:  Deep Learning Specialization 
+        link: "https://www.deeplearning.ai/deep-learning-specialization/"
+        tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera. I am currently taking this course, again without asking for a certificate."
 
+      - title:  Python for Data Science 
+        link: "https://www.edx.org/course/python-for-data-science-2"
+        tagline: "A Massive Open Online Course (MOOC) offered by UCSanDiego on EDX. I am currently taking this course, again without asking for a certificate."
+
+      - title:  Fundamentals of Quantitative Modeling 
+        link: "https://www.coursera.org/learn/wharton-quantitative-modeling/"
+        tagline: "A Massive Open Online Course (MOOC) offered by University of Pennsylvania on Coursera. I am currently taking this course, again without asking for a certificate."
 projects:
     title: Projects
     intro: >
