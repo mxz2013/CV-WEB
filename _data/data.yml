@@ -102,6 +102,11 @@ experiences:
               - Received 3 invited seminars on my researching projects.
               - Published one article that applies the probability theory in physics (see publication EPJB2018).  
 
+trainings:
+    - role: Machine Learning 
+      time: 2019
+      company: Coursera offered by Stanford 
+
 projects:
     title: Projects
     intro: >
