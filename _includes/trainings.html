@@ -1,37 +1,38 @@
-{% assign tainings = site.data.data.trainings %}
+{% assign trainings = site.data.data.trainings %}
 {% if trainings %}
 <section class="section trainings-section">
+
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    Trainings
+    {{ trainings.title }}
   </h2>
 
-  {% for training in trainings %}
-  <div class="item">
+  {% if trainings.intro %}
+  <div class="intro">
+      <p>{{ trainings.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
 
-    <div class="meta">
+  {% for training in trainings.assignments %}
+    <div class="item">
 
-      <div class="upper-row">
-        <h3 class="job-title">{{ training.role }}</h3>
-        <div class="time">{{ training.time }}</div>
-      </div><!--//upper-row-->
+      <span class="training-title">
+        {% if training.link %}
+        <a href="{{ training.link }}" target="_blank">{{ training.title }}</a>
+        {% else %}
+        {{ training.title }}
+        {% endif %}
+      </span>
 
-      <div class="company">{{ training.company }}</div>
+      {% if training.tagline %}
+      - <span class="training-tagline">{{ training.tagline }}</span>
+      {% endif %}
 
-    </div><!--//meta-->
-
-    {% if training.details %}
-    <div class="details">
-      {{ training.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
-
-  </div><!--//item-->
+    </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
 {% endif %}
-
