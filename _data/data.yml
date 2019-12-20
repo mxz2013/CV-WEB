@@ -124,9 +124,9 @@ trainings:
         link: "https://www.edx.org/course/python-for-data-science-2"
         tagline: "A Massive Open Online Course (MOOC) offered by UCSanDiego on EDX. I am currently taking this course, again without asking for a certificate."
 
-      - title:  Fundamentals of Quantitative Modeling 
-        link: "https://www.coursera.org/learn/wharton-quantitative-modeling/"
-        tagline: "A Massive Open Online Course (MOOC) offered by University of Pennsylvania on Coursera. This course provides me a basis for quantative research."
+      - title:  Finance & Quantitative Modeling for Analysts Specialization 
+        link: "https://www.coursera.org/specializations/finance-quantitative-modeling-analysts"
+        tagline: "A Massive Open Online Course (MOOC) offered by University of Pennsylvania on Coursera. I am currently taking this course."
 projects:
     title: Projects
     intro: >
