@@ -112,13 +112,13 @@ trainings:
         link: "https://www.coursera.org/learn/machine-learning/"
         tagline: "A Massive Open Online Course (MOOC) offered by Stanford University on Coursera. I finished all the coursers, quizs, and programming assignments, but I did not pay for the certificate."
 
-      - title:  AI for Everyone 
-        link: "https://www.deeplearning.ai/ai-for-everyone/"
-        tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera."
-
       - title:  Deep Learning Specialization 
         link: "https://www.deeplearning.ai/deep-learning-specialization/"
         tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera. I obtained the <a href='https://github.com/mxz2013/online-cv/blob/gh-pages/certificates/Coursera_Deep_Learning_Specialization.pdf' target='_blank'  rel='nofollow'> certificate </a> in less than one month." 
+
+      - title:  AI for Everyone 
+        link: "https://www.deeplearning.ai/ai-for-everyone/"
+        tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera."
 
       - title:  Python for Data Science 
         link: "https://www.edx.org/course/python-for-data-science-2"
