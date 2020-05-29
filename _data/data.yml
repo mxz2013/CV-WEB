@@ -59,7 +59,7 @@ career-profile:
 
       I'm a problem solver at heart and I love to produce actionable solutions for my clients. I enjoy approaching new challenges, working and communicating with a diverse crowd. This just helps to nurture my natural curiosity.
 
-      You can find my CV at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_data_science.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a> or at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/JianqiangZhou-CV.pdf" target="_blank"  rel="nofollow"> one-page CV of Jianqiang Sky ZHOU</a>.
+      My full can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_data_science.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a> or at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/cv-zhou.pdf" target="_blank"  rel="nofollow"> one-page CV of Jianqiang Sky ZHOU</a>.
 education:
     - degree: Ph.D. in Theoretical Physics 
       university: École Polytechnique
@@ -114,19 +114,19 @@ trainings:
 
       - title:  AI for Everyone 
         link: "https://www.deeplearning.ai/ai-for-everyone/"
-        tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera. I finished all the coursers but not the quizs since I do not need a certificate."
+        tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera."
 
       - title:  Deep Learning Specialization 
         link: "https://www.deeplearning.ai/deep-learning-specialization/"
-        tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera. I am currently taking this course, again without asking for a certificate."
+        tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera. I obtained the <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/certificates/Coursera_Deep_Learning_Specialization.pdf" target="_blank"  rel="nofollow"> certificate </a> in less than one month. 
 
       - title:  Python for Data Science 
         link: "https://www.edx.org/course/python-for-data-science-2"
-        tagline: "A Massive Open Online Course (MOOC) offered by UCSanDiego on EDX. I am currently taking this course, again without asking for a certificate."
+        tagline: "A Massive Open Online Course (MOOC) offered by UC SanDiego on EDX."
 
       - title:  Finance & Quantitative Modeling for Analysts Specialization 
         link: "https://www.coursera.org/specializations/finance-quantitative-modeling-analysts"
-        tagline: "A Massive Open Online Course (MOOC) offered by University of Pennsylvania on Coursera. I am currently taking this course."
+        tagline: "A Massive Open Online Course (MOOC) offered by University of Pennsylvania on Coursera. I am currently auditing this course."
 projects:
     title: Projects
     intro: >
