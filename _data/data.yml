@@ -118,7 +118,7 @@ trainings:
 
       - title:  Deep Learning Specialization 
         link: "https://www.deeplearning.ai/deep-learning-specialization/"
-        tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera. I obtained the <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/certificates/Coursera_Deep_Learning_Specialization.pdf" target="_blank"  rel="nofollow"> certificate </a> in less than one month. 
+        tagline: "A Massive Open Online Course (MOOC) offered by deeplearning.ai on Coursera. I obtained the <a href='https://github.com/mxz2013/online-cv/blob/gh-pages/certificates/Coursera_Deep_Learning_Specialization.pdf' target='_blank'  rel='nofollow'> certificate </a> in less than one month." 
 
       - title:  Python for Data Science 
         link: "https://www.edx.org/course/python-for-data-science-2"
