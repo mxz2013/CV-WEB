@@ -145,13 +145,20 @@ publications:
     papers:
       - title: Anharmonic melting of the charge density wave in single layer TiSe2
         link: "https://arxiv.org/abs/1910.12709"
+        link: "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c00597"
         authors: Zhou, J. S., Monacelli, L., Bianco, R., Errea, I., Mauri, F., Calandra, M.
-        conference: "Submitted to Phys. Rev. Lett.(2019)"
+        conference: "Nano Lett. (2020)"
+    papers:
+      - title: Theory of the thickness dependence of the charge density wave transition in 1T-TiTe2 
+        link: "https://arxiv.org/abs/2007.06515"
+        link: "https://iopscience.iop.org/article/10.1088/2053-1583/abae7a"
+        authors: Zhou, J. S., Bianco, R., Monacelli, L., Errea, I., Mauri, F., Calandra, M.
+        conference: "2D Materials (2020)"
 
       - title: Dispersing and non-dispersing satellites in the photoemission spectra of aluminum
         link: "https://arxiv.org/abs/1811.12217"
         authors: Jianqiang Sky Zhou, Lucia Reining, Alessandro Nicolaou, Azzedine Bendounan, Kari Ruotsalainen, Marco Vanzini, J. J. Kas, J. J. Rehr, Matthias Muntwiler, Vladimir N. Strocov, Fausto Sirotti, Matteo Gatti 
-        conference: "Submitted to Phys. Rev. Lett. (2019)"
+        conference: "Submitted to PNAS (2019)"
 
       - title: Cumulant Greens function calculations of plasmon satellites in bulk sodium influence     of screening and the crystal environment 
         link: "https://arxiv.org/abs/1708.04313"
