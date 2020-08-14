@@ -206,10 +206,13 @@ skills:
       - name: Git & SVN
         level: 90%
 
-      - name: Vi & Jupyter Notebook & Latex
+      - name: Vi & Jupyter Notebook & Latex & Pycharm
         level: 90%
 
       - name: Machine learning & Deep learning 
+        level: 70%
+
+      - name: Computer Vision 
         level: 70%
 
       - name: Probablity & Statistics 
