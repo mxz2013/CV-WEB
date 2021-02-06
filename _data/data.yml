@@ -62,7 +62,8 @@ career-profile:
       I'm a problem solver at heart and I love to produce actionable solutions for my clients. I enjoy approaching new challenges, working and communicating with a diverse crowd. This just helps to nurture my natural curiosity.
 
 
-      My full can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_Sky_ZHOU.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a>.  
+      My full CV can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_Sky_ZHOU.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a>.  
+
 education:
     - degree: Ph.D. in Theoretical Physics 
       university: École Polytechnique
@@ -222,10 +223,13 @@ skills:
       - name: Vi & Jupyter Notebook & Latex & Pycharm
         level: 90%
 
-      - name: Machine learning & Deep learning 
-        level: 70%
+      - name: Data analysis 
+        level: 90%
 
       - name: Computer Vision 
+        level: 80%
+
+      - name: Machine learning & Deep learning 
         level: 70%
 
       - name: Probablity & Statistics 
