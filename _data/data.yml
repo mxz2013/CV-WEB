@@ -92,9 +92,9 @@ experiences:
       company: <a href="https://www.flyinstinct.com/" target="_blank"  rel="nofollow"> Flyininstinct</a> 
       details: |
               Providing best solutions based on computer vision technology to industrial products for airport runway FOD (foreign object debris) detection.
-              - Proof of Concept Design new algorithms based on computer vision technique. Implementthem in Python, and prove their performance in our products.
-              - Data Analysis Extract information from images, analyze them according to the requirementof the products, which helps to design better algorithms.
-              - Software Team Lead explain and discuss daily tasks and distribute daily work. Provide thebest direction to go for product development based on team members’ ability.
+              - Proof of Concept :"Design new algorithms based on computer vision technique. Implementthem in Python, and prove their performance in our products."
+              - Data Analysis :"Extract information from images, analyze them according to the requirementof the products, which helps to design better algorithms."
+              - Software Team Lead :"explain and discuss daily tasks and distribute daily work. Provide thebest direction to go for product development based on team members’ ability."
                 
     - role: Post-doctoral Fellow 
       time: 2018 - 2020 
