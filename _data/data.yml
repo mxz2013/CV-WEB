@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jianqiang Sky ZHOU
-    tagline: Ph.D., Data Scientist 
+    tagline: Ph.D., Data / Computer Vision Scientist 
     avatar: sky-cv-photojpg.jpg #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,9 +57,12 @@ career-profile:
 
       After 3 years of academic research as a postdoc, I found my true passion in data science, where the confluence of math, statistics, and computer science (which I all enjoy on their own) provides unique tools that are actually changing the world. I realize that data science offers me unique opportunities to cultivate my skills in a manner that allows me to reach my full career potential.  
 
+      In 2020, I joined Flyinstinct (a startup provides a digital platform for airport inspections developed with the most advancedtechnologies of computer vision and AI algorithm) as a solution scientist. After joining Flyinstinct, I have provided several key solutions (one key solution per month in average) that have been applied to our industrial FOD (foreign object debris) detection system, such that we successfully deployed it to Lyon and Orly Airpots.    
+
       I'm a problem solver at heart and I love to produce actionable solutions for my clients. I enjoy approaching new challenges, working and communicating with a diverse crowd. This just helps to nurture my natural curiosity.
 
-      My full can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_data_science.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a> or at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/cv-zhou.pdf" target="_blank"  rel="nofollow"> one-page CV of Jianqiang Sky ZHOU</a>.
+
+      My full can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_Sky_ZHOU.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a>.  
 education:
     - degree: Ph.D. in Theoretical Physics 
       university: École Polytechnique
