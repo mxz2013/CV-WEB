@@ -99,7 +99,7 @@ experiences:
               - Proof of Concept : Design new algorithms based on computer vision technique. Implement them in Python, and prove their performance in our products.
               - Data Analysis : Extract information from images, analyze them according to the requirement of the products, which helps to design better algorithms.
               - Software Team Lead : Explain, discuss daily tasks, and distribute daily work. Provide the best direction to go for product development based on team members’ ability.
-              - Pipeline performance evaluation : Study the performance of the entire pipeline. Design in-house experiment for evaluating potential inefficiency or bugs. 
+              - Pipeline performance evaluation : Study the performance of the entire pipeline. Design in-house experiment for evaluating potential problems or bugs. 
 
                 
     - role: Post-doctoral Fellow 
