@@ -10,6 +10,10 @@
     {{ career-profile.title }}
   </h2>
 
+  <div class="keywords">
+    {{ career-profile.summary | markdownify }}
+  </div><!--//keywords-->
+
   <div class="summary">
     {{ career-profile.summary | markdownify }}
   </div><!--//summary-->

@@ -51,6 +51,9 @@ sidebar:
 
 career-profile:
     title: Career Profile
+    keywords: |
+            Optimistic
+
     summary: |
       I am a Ph.D. in physics with experience in data analysis and programming. 
       I particularly enjoy working with the Python scientific stack, which I have been using for more than seven years.  As a researcher in academia, I acquired solid mathematical skills, and the ability to work both independently and in a team. Moreover, I am a good storyteller since I have been improving my presentation skills in my academic career when I have to be able to explain complex problems in physics to non-experts, as my CV can attest. 
@@ -64,7 +67,6 @@ career-profile:
 
       My full CV can be found at <a href="https://github.com/mxz2013/online-cv/blob/gh-pages/Curriculum_Vitae_Sky_ZHOU.pdf" target="_blank" rel="nofollow">full CV of Jianqiang Sky ZHOU </a>.  
 
-    Keywords: Optimistic
 
 education:
     - degree: Ph.D. in Theoretical Physics 
