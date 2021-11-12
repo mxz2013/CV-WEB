@@ -93,8 +93,12 @@ education:
       university: Harbin institute of technology (China)
       time: 2005 - 2009
 experiences:
+    - role: Senior Solution Scientist 
+      time: 2021 - now 
+      company: <a href="https://www.flyinstinct.com/" target="_blank"  rel="nofollow"> Flyininstinct</a> 
+
     - role: Solution Scientist 
-      time: 2020 - now 
+      time: 2020 - 2021 
       company: <a href="https://www.flyinstinct.com/" target="_blank"  rel="nofollow"> Flyininstinct</a> 
       details: |
               Providing best solutions based on computer vision technology to industrial products for airport runway FOD (foreign object debris) detection.
