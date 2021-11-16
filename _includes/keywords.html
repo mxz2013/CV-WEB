@@ -1,0 +1,22 @@
+{% assign keywords = site.data.data.sidebar.keywords %}
+{% if keywords %}
+<div class="keywords-container container-block">
+
+  <h2 class="container-block-title">
+    Keywords
+  </h2>
+
+  <ul class="list-unstyled keywords-list">
+    {% for keyword in keywords %}
+
+      {% if keywords.link %}
+      <li><a href="{{ keyword.link }}">{{ keyword.item }}</a></li>
+      {% else %}
+      <li>{{ keyword.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//keywords-->
+{% endif %}
