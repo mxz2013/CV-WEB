@@ -38,7 +38,7 @@ sidebar:
       - item: Football (MU & RM F.C.)
         link:
 
-      - item: Climbing
+      - item: Table Tennis  
         link:
       - item: Swimming 
         link:
@@ -46,7 +46,7 @@ sidebar:
       - item: Computer games (DOTA2)
         link:
 
-      - item: Travel with family
+      - item: Travel
         link:
 
     keywords:
@@ -67,12 +67,12 @@ career-profile:
     title: Career Profile
 
     summary: |
-      I am a Ph.D. in physics with experience in data analysis and programming. 
-      I particularly enjoy working with the Python scientific stack, which I have been using for more than seven years.  As a researcher in academia, I acquired solid mathematical skills, and the ability to work both independently and in a team. Moreover, I am a good storyteller since I have been improving my presentation skills in my academic career when I have to be able to explain complex problems in physics to non-experts, as my CV can attest. 
+      I am a Ph.D. in physics with experience in programming, data analysis, and computer vision. 
+      I particularly enjoy working with the Python scientific stack, which I have been using since 2013 when I started my Phd.  As a researcher in academia, I acquired solid mathematical skills, and the ability to work both independently and in a team. Moreover, I am a good storyteller since I have been improving my presentation skills in my academic career when I have to be able to explain complex problems in physics to non-experts, as my CV can attest. 
 
       After 3 years of academic research as a postdoc, I found my true passion in data science, where the confluence of math, statistics, and computer science provides unique tools that are actually changing the world. I realize that data science offers me unique opportunities to cultivate my skills in a manner that allows me to reach my full career potential.  
 
-      In 2020, I joined Flyinstinct (a startup that provides a digital platform for airport inspections developed with the most advanced technologies of computer vision and AI algorithm) as a solution scientist. After joining Flyinstinct, I have provided several key solutions (more than one key solution per month on average) that have been applied to our industrial FOD (foreign object debris) detection system, such that we successfully deployed it to Lyon and Orly Airports.
+      In 2020, I joined Flyinstinct (a startup that provides a digital platform for airport inspections developed with the most advanced technologies of computer vision and AI algorithm) as a solution scientist. After joining Flyinstinct, I have provided several key solutions that have been applied to our industrial FOD (foreign object debris) detection system, such that we successfully deployed it to Lyon and Orly Airports. Flyinstinct offers me an opportunity to master my computer vision skills, as well as customer-centric problem solving, since building an industrial product we have to always design algoriths depending on the clients' request. 
 
       I'm a problem solver at heart and I love to produce actionable solutions for my clients. I enjoy approaching new challenges, working and communicating with a diverse crowd. This just helps to nurture my natural curiosity.
 
