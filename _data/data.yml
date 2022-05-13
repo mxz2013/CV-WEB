@@ -111,6 +111,9 @@ experiences:
     - role: Senior Solution Scientist 
       time: 2021 - now 
       company: <a href="https://www.flyinstinct.com/" target="_blank"  rel="nofollow"> Flyininstinct</a> 
+      details: |
+              - Algorithm design : Designed an algorithm for minimizing the luminosity difference in the overlap region of two images. It is a key algorithm that enables objective detection of our product.  
+              - Deep learning : Introduced a deep learning solution (Mask-RCNN) for reducing 70% of the false positives. 
 
     - role: Solution Scientist 
       time: 2020 - 2021 
