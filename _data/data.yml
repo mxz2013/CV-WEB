@@ -114,7 +114,7 @@ experiences:
       time: 2020 - now 
       company: <a href="https://www.flyinstinct.com/" target="_blank"  rel="nofollow"> Flyininstinct</a> 
       details: |
-              - Introduced an instant segmentation model (i.e., Mask-RCNN), which reduces more than 70% system false-positive errors. 
+              - Introduced an instant segmentation model (i.e., <a href="https://ieeexplore.ieee.org/document/8237584" target="_blank" rel="nofollow">Mask-RCNN </a> ), which reduces more than 70% system false-positive errors. 
               - Delivered a 3D-vision based module (i.e., <a href="https://en.wikipedia.org/wiki/Orthophoto" target="_blank" rel="nofollow">Orthophoto </a>), which yields better detection performance.  
               - Invented an approach to match images with different luminosity (more efficient than the state-of-the-art, e.g., <a href="https://en.wikipedia.org/wiki/Histogram_matching" target="_blank" rel="nofollow">Histogram-matching </a>, or <a href="https://en.wikipedia.org/wiki/Gamma_correction" target="_blank" rel="nofollow">Gamma-correction </a>), which improves 50% of object detection rate. 
               - Designed a localization algorithm based on perspective transform, leading to an increase of the detection rate from smaller than 10% to more than 90%.
