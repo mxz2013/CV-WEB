@@ -111,23 +111,23 @@ education:
       time: 2005 - 2009
 experiences:
     - role: Senior Solution Scientist 
-      time: 2021 - now 
+      time: 2020 - now 
       company: <a href="https://www.flyinstinct.com/" target="_blank"  rel="nofollow"> Flyininstinct</a> 
       details: |
-              - Deep learning : Introduced an instant segmentation model (i.e., Mask-RCNN), which reduces more than 70% system false-positive errors. 
-              - Algorithm design : 1. Delivered a 3D-vision based module (i.e., <a href="https://en.wikipedia.org/wiki/Orthophoto" target="_blank" rel="nofollow">Orthophoto </a>), which yields better detection performance.  
-                2. Invented an approach to match images with different luminosity (more efficient than the state-of-the-art, e.g., <a href="https://en.wikipedia.org/wiki/Histogram_matching" target="_blank rel="nofollow">Histogram-matching</a>, or <a href="https://en.wikipedia.org/wiki/Gamma_correction" target="_blank" rel="nofollow">Gamma-correction </a>), which improves 50% of object detection rate. 
-                3. Designed a localization algorithm based on perspective transform, leading to an increase of the detection rate from smaller than 10% to more than 90%.
+              - Introduced an instant segmentation model (i.e., Mask-RCNN), which reduces more than 70% system false-positive errors. 
+              - Delivered a 3D-vision based module (i.e., <a href="https://en.wikipedia.org/wiki/Orthophoto" target="_blank" rel="nofollow">Orthophoto </a>), which yields better detection performance.  
+              - Invented an approach to match images with different luminosity (more efficient than the state-of-the-art, e.g., <a href="https://en.wikipedia.org/wiki/Histogram_matching" target="_blank rel="nofollow">Histogram-matching</a>, or <a href="https://en.wikipedia.org/wiki/Gamma_correction" target="_blank" rel="nofollow">Gamma-correction </a>), which improves 50% of object detection rate. 
+              - Designed a localization algorithm based on perspective transform, leading to an increase of the detection rate from smaller than 10% to more than 90%.
 
-    - role: Solution Scientist 
-      time: 2020 - 2021 
-      company: <a href="https://www.flyinstinct.com/" target="_blank"  rel="nofollow"> Flyininstinct</a> 
-      details:|
-              Providing best solutions based on computer vision technology to industrial products for airport runway FOD (foreign object debris) detection.
-              - Proof of Concept : Design new algorithms based on computer vision technique. Implement them in Python, and prove their performance in our products.
-              - Data Analysis : Extract information from images, analyze them according to the requirement of the products, which helps to design better algorithms.
-              - Software Team Lead : Explain, discuss daily tasks, and distribute daily work. Provide the best direction to go for product development based on team members’ ability.
-              - Pipeline performance evaluation : Study the performance of the entire pipeline. Design in-house experiment for evaluating potential problems or bugs. 
+                ###    - role: Solution Scientist 
+                ###      time: 2020 - 2021 
+                ###      company: <a href="https://www.flyinstinct.com/" target="_blank"  rel="nofollow"> Flyininstinct</a> 
+                ###      details:|
+                ###              Providing best solutions based on computer vision technology to industrial products for airport runway FOD (foreign object debris) detection.
+                ###              - Proof of Concept : Design new algorithms based on computer vision technique. Implement them in Python, and prove their performance in our products.
+                ###              - Data Analysis : Extract information from images, analyze them according to the requirement of the products, which helps to design better algorithms.
+                ###              - Software Team Lead : Explain, discuss daily tasks, and distribute daily work. Provide the best direction to go for product development based on team members’ ability.
+                ###              - Pipeline performance evaluation : Study the performance of the entire pipeline. Design in-house experiment for evaluating potential problems or bugs. 
 
                 
     - role: Post-doctoral Fellow 
